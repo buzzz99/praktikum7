@@ -21,5 +21,4 @@
 + Menghapus data (Hapus())
 + Menginput Nama, setalah Nama diinputkan maka data yang lainnya akan ikut terhapus sesuai dengan nama yang diinputkan.
 + Menggunakan Perulangan uncountable, yang artinya selama statement bernilai True maka program akan terus berjalan. Jika statementnya False maka program akan terhenti.
-
-![gambar 1](sspraktikum7/prak7.jpeg)
+![gambar](hasil/prak7.jpeg)
