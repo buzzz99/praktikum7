@@ -115,4 +115,4 @@ while Loop:
         Loop = False;
 ```
 ### hasil output
-![gambar](hasil/prak7.jpeg)
+![gambar](hasil/sshasil.jpeg)
