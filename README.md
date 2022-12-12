@@ -22,4 +22,4 @@
 + Menginput Nama, setalah Nama diinputkan maka data yang lainnya akan ikut terhapus sesuai dengan nama yang diinputkan.
 + Menggunakan Perulangan uncountable, yang artinya selama statement bernilai True maka program akan terus berjalan. Jika statementnya False maka program akan terhenti.
 
-![gambar](sspraktikum7/sspraktikum7.jpeg)
+![gambar](sspraktikum7/prak7.jpeg)
